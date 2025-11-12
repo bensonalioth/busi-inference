@@ -7,7 +7,7 @@ from multiverseg.models.sp_mvs import MultiverSeg
 from scribbleprompt.models.unet import ScribblePromptUNet
 import universeg
 import torch
-
+#gggggggggg
 # ======== 基本設定 ========
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
